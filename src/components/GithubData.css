@@ -1,0 +1,21 @@
+.GithubData img{
+    width: 200px;
+    height: 200px;
+   
+}
+.GithubData {
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.GithubData .img{
+    margin: auto;
+}
+.GithubData a{
+    color: rgb(114, 133, 197);
+    text-decoration: none;
+}
+.NotFound{
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+}

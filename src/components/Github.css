@@ -1,0 +1,30 @@
+.Github{
+    text-align: center;
+    margin: 10rem auto;
+}
+.Github h1{
+    color: rgb(66, 51, 51);
+}
+.Github input{
+    width: 40%;
+    padding: 0.5rem;
+    outline: none;
+    border-top-left-radius: 0.2rem;
+    border-bottom-right-radius: 0.2rem;
+    border-color: rgb(85, 108, 182);
+    text-align: center;
+}
+.Github button{
+    height: 2.19rem;
+    color: rgb(85, 184, 184);
+    border-color: rgb(85, 95, 184);
+    width: 20%;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    transition: all 1s ease;
+}
+.Github button:hover{
+    background-color: rgb(135, 149, 196);
+    color: white;
+}
